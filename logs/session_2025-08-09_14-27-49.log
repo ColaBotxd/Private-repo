@@ -1,0 +1,17 @@
+[14:27:49] === ProjectX Session Start ===
+[14:27:49] Session log -> logs\session_2025-08-09_14-27-49.log
+[14:27:49] ▶️ Starting with user: WinHelper_5786
+[14:27:53] 🚀 Launched: C:/Windows/System32/notepad.exe
+[14:27:55] ✅ Target PID: 6604
+[14:27:55] In-world readiness tick 1/3
+[14:27:55] In-world readiness tick 2/3
+[14:27:56] In-world readiness tick 3/3
+[14:27:56] Distance to start: 0.00 yards
+[14:27:56] ⏳ Adaptive start delay: 4.24s
+[14:28:00] 🗺️  Starting path...
+[14:28:00] === TEST MODE ACTION STREAM ===
+[14:28:00] ➡️  Waypoint 1/25 -> (46.7, 66.9)
+[14:28:58] 🛑 Killed target PID 6604.
+[14:28:58] 🧹 Deleting user: WinHelper_5786
+[14:28:58] ✅ User deleted.
+[14:28:58] === ProjectX Session End ===

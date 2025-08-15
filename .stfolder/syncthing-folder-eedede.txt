@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: oyhas-2nubr
+created: 2025-08-07T11:38:30+02:00

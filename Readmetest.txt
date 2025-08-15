@@ -1,0 +1,1 @@
+ja radim kako treba

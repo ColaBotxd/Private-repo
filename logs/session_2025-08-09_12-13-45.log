@@ -1,0 +1,8 @@
+[12:13:45] === ProjectX Session Start ===
+[12:13:45] Session log -> logs\session_2025-08-09_12-13-45.log
+[12:13:45] ▶️ Starting with user: UserSvc_8012
+[12:13:58] 🚀 Launched: C:/Windows/System32/notepad.exe
+[12:13:59] ✅ Target PID: 1192
+[12:14:12] 🧹 Deleting user: UserSvc_8012
+[12:14:13] ✅ User deleted.
+[12:14:13] === ProjectX Session End ===

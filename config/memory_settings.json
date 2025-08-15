@@ -1,0 +1,14 @@
+{
+  "process_name": "Wow.exe",
+  "module_hint": "Wow.exe",
+  "poll_hz": 10,
+
+  "position_x_ptr": { "module": "Wow.exe", "offsets": ["0x123456", "0x30", "0x18", "0x10"] },
+  "position_y_ptr": { "module": "Wow.exe", "offsets": ["0x123456", "0x30", "0x18", "0x14"] },
+  "heading_ptr":    { "module": "Wow.exe", "offsets": ["0x123456", "0x30", "0x20", "0x08"] },
+
+  "types": {
+    "position": "float",
+    "heading_degrees": true
+  }
+}

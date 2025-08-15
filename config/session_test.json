@@ -1,0 +1,16 @@
+{
+  "profile_id": "session-001",
+  "path_profile": "profiles/long_test_path.json",
+  "class_config": "config/class_config.json",
+  "combat_config": "config/combat_config.json",
+  "runtime_limit": 1800,
+  "launch_config": {
+    "emulation": true,
+    "game_exe": "notepad.exe",
+    "window_mode": "borderless",
+    "test_app_exe": "C:/Windows/System32/notepad.exe"
+  },
+  "log_path": "logs/session-001.log",
+  "session_seed": 99999,
+  "test_mode": true
+}
